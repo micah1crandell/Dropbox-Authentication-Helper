@@ -82,7 +82,7 @@ Follow these steps to get started with the Dropbox Authentication Helper:
 
     ```bash
     from dbx_auth_helper import access
-    ```
+    
 
     REFRESH_TOKEN = "your_refresh_token"
     APP_KEY = "your_app_key"
